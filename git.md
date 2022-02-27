@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-## [Managing multiple GitHub account using git in same pc](https://dev.to/raven404/managing-multiple-github-account-using-git-in-windows-2m0h)
+## Managing multiple GitHub account using git in same pc [Click Here](https://dev.to/raven404/managing-multiple-github-account-using-git-in-windows-2m0h)
 
 ### Configure/Reconfigure Globle user
     git config user.name "Name Here"
