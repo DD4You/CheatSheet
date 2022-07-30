@@ -37,11 +37,11 @@
 ### Create a new branch from specific commit
     git branch branch_name commit_hash
 
-### Delete branch (Local)
-    git branch -D branch_name
+<!-- ### Delete branch (Local) -->
+<!--     git branch -D branch_name -->
 
-### Delete branch (Remote)
-    git push origin --delete branch_name
+<!-- ### Delete branch (Remote) -->
+<!--     git push origin --delete branch_name -->
 
 ### Move/Rename a branch
     git branch -M new_branch_name
